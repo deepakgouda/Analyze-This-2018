@@ -1,0 +1,11 @@
+Before Normalization
+mvar28 - can be used as 0/1 for ordering - no. of days missed for payment
+mvar14 - annual income - very very large
+mvar3 maybe = mvar4 + mvar5
+mvar17 almost= mvar18, mvar18<=mvar17 ::::: similarly mvar19 and mvar20
+
+
+After Normalization
+mvar8 >= mvar7
+mvar29 <= mvar25
+mvar26, mvar27, mvar29 are related
